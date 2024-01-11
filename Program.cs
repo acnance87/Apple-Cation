@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 internal class Program {
     private static async Task Main() {
-        Console.WriteLine($"Thank you for your time, and enjoy! (Press any key to continue)" + Environment.NewLine);
+        Console.WriteLine("Thank you for your time, and enjoy! (Press any key to continue)" + Environment.NewLine);
         Console.ReadKey(true);
 
         var questions = new string[] {
