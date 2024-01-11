@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple-Cation", "Apple-Cation.csproj", "{0C83B6AF-57A0-41C4-807A-BA941182752A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C83B6AF-57A0-41C4-807A-BA941182752A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C83B6AF-57A0-41C4-807A-BA941182752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C83B6AF-57A0-41C4-807A-BA941182752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C83B6AF-57A0-41C4-807A-BA941182752A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {329150FD-F589-4522-AC0D-BE8758D7FB5A}
+	EndGlobalSection
+EndGlobal
